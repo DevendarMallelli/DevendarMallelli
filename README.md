@@ -1,9 +1,4 @@
-<h1 align="center">👋 Hi, I'm Devendar Goud Mallelli</h1>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/DevendarMallelli" width="150" style="border-radius: 50%;" alt="Profile Photo" />
-</p>
-
+<h1 align="center">Hi 👋 , I'm Devendar Goud Mallelli</h1>
 <p align="center">
   🎓 Final Year CSE Student | 📊 ML & AI Enthusiast | 👨‍💻 Open Source Contributor <br/>
   📍 Avanthi Institute of Engineering and Technology, Hyderabad<br/>
@@ -18,26 +13,9 @@
 - **Libraries/Frameworks:** Pandas, NumPy, TensorFlow, Keras, Matplotlib, PySpark  
 - **Tools:** Git, GitHub, VS Code, PyCharm, Jupyter Notebook  
 - **Database:** MySQL  
-- **Others:** Salesforce Apex, Process Automation, MS Office
 
 ---
 
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevendarMallelli&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevendarMallelli&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevendarMallelli&theme=tokyonight&no-frame=true&column=7&margin-w=5" />
-</p>
-
----
 
 ## 📌 Projects
 
