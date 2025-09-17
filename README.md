@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Devendar Goud Mallelli</h1>
 <p align="center">
-  🎓 Final Year CSE Student | 📊 ML & AI Enthusiast | 👨‍💻 Open Source Contributor <br/>
+  🎓 Fresher CSE Graduate | 📊 ML & AI Enthusiast | 👨‍💻 Open Source Contributor <br/>
   📍 Avanthi Institute of Engineering and Technology, Hyderabad<br/>
   🌱 Passionate about building intelligent solutions that make an impact.
 </p>
@@ -9,10 +9,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, C (Basics), SQL, HTML5, CSS3  
-- **Libraries/Frameworks:** Pandas, NumPy, TensorFlow, Keras, Matplotlib, PySpark  
+- **Languages:** Python, C (Basics), SQL, HTML5, CSS3 
+- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Flask 
 - **Tools:** Git, GitHub, VS Code, PyCharm, Jupyter Notebook  
-- **Database:** MySQL  
+- **Database:** MySQL , MONGO DB
 
 ---
 
